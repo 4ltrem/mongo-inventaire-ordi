@@ -1,0 +1,135 @@
+[{
+  "_id": {
+    "$oid": "6418d64f21217b18e0b0e619"
+  },
+  "marque": "Apple",
+  "modele": "MacBook Pro",
+  "processeur": "Apple M1",
+  "ram": 16,
+  "stockage": 512,
+  "ecran": 13.3,
+  "os": "macOS Big Sur",
+  "prix": 1999,
+  "avis": [
+    {
+      "note": 4,
+      "commentaire": "Excellent ordinateur, très rapide et fiable"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6418d64f21217b18e0b0e61a"
+  },
+  "marque": "Dell",
+  "modele": "XPS 13",
+  "processeur": "Intel Core i7-1165G7",
+  "ram": 16,
+  "stockage": 1000,
+  "ecran": 13.4,
+  "os": "Windows 10 Home",
+  "prix": 1699,
+  "avis": [
+    {
+      "note": 3,
+      "commentaire": "Un peu déçu de la qualité de l'écran"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6418d64f21217b18e0b0e61b"
+  },
+  "marque": "Dell",
+  "modele": "XPS 15",
+  "processeur": "Intel Core i7-1165G8",
+  "ram": 16,
+  "stockage": 1000,
+  "ecran": 15,
+  "os": "Windows 10 Home",
+  "prix": 1899,
+  "avis": [
+    {
+      "note": 3,
+      "commentaire": "Un peu déçu de la qualité de la ram"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6418d64f21217b18e0b0e61c"
+  },
+  "marque": "Apple",
+  "modele": "MacBook Pro",
+  "processeur": "Apple M2 max",
+  "ram": 32,
+  "stockage": 512,
+  "ecran": 16,
+  "os": "macOS Big Sur",
+  "prix": 2799,
+  "avis": [
+    {
+      "note": 5,
+      "commentaire": "Excellent ordinateur portable, très rapide et fiable"
+    },
+    {
+      "note": 4,
+      "commentaire": "Le prix est un peu élevé mais cela en vaut la peine"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6418d64f21217b18e0b0e61d"
+  },
+  "marque": "HP",
+  "modele": "Spectre x360",
+  "processeur": "Intel Core i7-1165G7",
+  "ram": 16,
+  "stockage": 512,
+  "ecran": 13.3,
+  "os": "Windows 10 Home",
+  "prix": 1399,
+  "avis": [
+    {
+      "note": 4,
+      "commentaire": "Très bon ordinateur portable, je le recommande"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6418d64f21217b18e0b0e61e"
+  },
+  "marque": "Lenovo",
+  "modele": "ThinkPad X1 Carbon",
+  "processeur": "Intel Core i7-1165G7",
+  "ram": 16,
+  "stockage": 1000,
+  "ecran": 14,
+  "os": "Windows 10 Pro",
+  "prix": 1899,
+  "avis": [
+    {
+      "note": 4,
+      "commentaire": "Très bon ordinateur portable professionnel"
+    },
+    {
+      "note": 5,
+      "commentaire": "Excellent choix pour les professionnels en déplacement"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6418d64f21217b18e0b0e61f"
+  },
+  "marque": "Asus",
+  "modele": "ZenBook UX425",
+  "processeur": "Intel Core i7-1165G7",
+  "ram": 16,
+  "stockage": 512,
+  "ecran": 14,
+  "os": "Windows 10 Home",
+  "prix": 1299,
+  "avis": [
+    {
+      "note": 4,
+      "commentaire": "Belle conception et performances solides"
+    }
+  ]
+}]
